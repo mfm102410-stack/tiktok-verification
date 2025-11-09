@@ -28,3 +28,7 @@ logs/
 # Temporary files
 *.tmp
 *.temp
+
+# Verification backup files
+verification-backup/
+*.backup

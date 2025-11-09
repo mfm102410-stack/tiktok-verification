@@ -1,6 +1,6 @@
 # TikTok Developer Verification
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?style=flat-square&logo=github)](https://[YOUR_USERNAME].github.io/tiktok-verification/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?style=flat-square&logo=github)](https://mfm102410.github.io/tiktok-verification/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 ## 📋 Overview
@@ -17,7 +17,7 @@ This repository contains the official TikTok Developer Console site verification
 ## 🌐 Live URL
 
 ```
-https://[YOUR_USERNAME].github.io/tiktok-verification/
+https://mfm102410.github.io/tiktok-verification/
 ```
 
 ## 📁 Project Structure
@@ -34,7 +34,7 @@ tiktok-verification/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/[YOUR_USERNAME]/tiktok-verification.git
+git clone https://github.com/mfm102410/tiktok-verification.git
 cd tiktok-verification
 ```
 
@@ -46,7 +46,7 @@ cd tiktok-verification
 
 ### 3. Verify in TikTok Console
 1. Go to [TikTok Developer Console](https://developers.tiktok.com)
-2. Enter URL: `https://[YOUR_USERNAME].github.io/tiktok-verification/`
+2. Enter URL: `https://mfm102410.github.io/tiktok-verification/`
 3. Click **Verify**
 
 ## 🔧 Technical Details
@@ -56,6 +56,7 @@ cd tiktok-verification
 - **SSL**: Enabled (HTTPS)
 - **CDN**: GitHub's global CDN
 - **Uptime**: 99.9% (GitHub SLA)
+- **Owner**: mfm102410
 
 ## 📝 License
 
@@ -75,3 +76,7 @@ For issues related to:
 ---
 
 **Note**: This repository is specifically created for TikTok Developer Console property verification. Do not modify the `index.html` file unless updating the verification code.
+
+**Repository Owner**: mfm102410  
+**Project**: Geeky TikTok Flow Verification  
+**Status**: Production Ready ✅
